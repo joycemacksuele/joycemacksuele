@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 💻 Student at [**École 42**](https://www.42.fr) Paris
-- 🔭 I’m currently working on: minishell - 42 school
-- 🌱 I’m currently learning: C language
-- 📫 How to reach me: 
+- 🔭 I’m currently working on: Push-swap (sort data on a stack) - 42 school
+- Previous project: minishell written in C - 42 school
+- 🌱 I’m currently learning: C language and memory
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=f8f8f8&title_color=blue&text_color=383838&icon_color=blue)
 
