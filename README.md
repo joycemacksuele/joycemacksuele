@@ -5,5 +5,4 @@
 - 🌱 I’m currently learning: C language
 - 📫 How to reach me: jfreitas@student.42.fr
 
-> 42 students:
->> feel free to reach me on Slack or Discord (**@jfreitas**).
+> 42 students: feel free to reach me on Slack or Discord (**@jfreitas**).
