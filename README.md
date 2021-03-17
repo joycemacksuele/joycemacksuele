@@ -4,4 +4,5 @@
 - 🔭 I’m currently working on: minishell - 42 school
 - 🌱 I’m currently learning: C language
 - 📫 How to reach me: jfreitas@student.42.fr
-- > 42's students: feel free to reach me on Slack (**@jfreitas**).
+
+> 42 students: feel free to reach me on Slack (**@jfreitas**).
