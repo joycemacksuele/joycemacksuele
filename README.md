@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: C language
 - 📫 How to reach me: 
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=979797&title_color=f8f8f8&text_color=f8f8f8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=979797&title_color=f8f8f8&text_color=f8f8f8&icon_color=383838)
 
 > 42 students: feel free to reach me on Slack or Discord (**@jfreitas**).
 
@@ -21,6 +21,6 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/joycemacksuele/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joycemacksuele/" />
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=383838&link=https://www.linkedin.com/in/joycemacksuele/" />
 	</a>
 </p>
