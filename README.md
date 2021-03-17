@@ -11,10 +11,10 @@
 
 <p align="center">
 	<a href="mailto:jfreitas@student.42.fr">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-white?style=flat&logo=Gmail&logoColor=black&link=mailto:jfreitas@student.42.fr" />
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-lightgray?style=flat&logo=Gmail&logoColor=blue&link=mailto:jfreitas@student.42.fr" />
 	</a>
 	<a href="mailto:jfreitas@student.42.fr">
-		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-lightgray?style=flat&logo=Gmail&logoColor=black&link=mailto:jfreitas@student.42.fr" />
+		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-lightgray?style=flat&logo=Gmail&logoColor=blue&link=mailto:jfreitas@student.42.fr" />
 	</a>
 	
 </p>
