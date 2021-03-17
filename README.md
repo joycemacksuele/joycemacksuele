@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: C language
 - 📫 How to reach me: 
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=radical&count_private=true&)
 
 > 42 students: feel free to reach me on Slack or Discord (**@jfreitas**).
 
