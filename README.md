@@ -15,10 +15,14 @@
 	</a>
 	<span> * </span>
 	<a href="mailto:jfreitas@student.42.fr">
-		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-black?style=flat&logo=Gmail&logoColor=white&link=mailto:jfreitas@student.42.fr" />
+		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-gray?style=flat&logo=Gmail&logoColor=white&link=mailto:jfreitas@student.42.fr" />
 	</a>
-	<span> * </span>
+	
+</p>
+
+<p align="center">
+<span> * </span>
 	<a href="https://www.linkedin.com/in/joycemacksuele/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/appinha/" />
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joycemacksuele/" />
 	</a>
 </p>
