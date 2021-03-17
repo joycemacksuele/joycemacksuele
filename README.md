@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: C language
 - 📫 How to reach me: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=979797&title_color=f8f8f8&text_color=f8f8f8&icon_color=383838)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=f8f8f8&title_color=f8f8f8&text_color=383838&icon_color=383838)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycemacksuele&)](https://github.com/anuraghazra/github-readme-stats)
 
