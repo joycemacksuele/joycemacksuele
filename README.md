@@ -1,7 +1,7 @@
 ### Hi there - Oi oi - Salut! 
 
 - 🥖 Student at [**École 42**](https://www.42.fr) Paris 🇫🇷
-![42 galaxy](joycemacksuele/pic_srcs/holygraph42.png?raw=true "42 Holy Graph")
+![42 galaxy](joycemacksuele/pic_srcs/holygraph42.png?"42 Holy Graph")
 - 🥑 I’m currently working on: Push-swap (🗄 sort data on a stack) - 42 school
 ![42 push swap](joycemacksuele/pic_srcs/pushswap42.jng?raw=true "42 Push-Swap Project")
 - 🧅 Previous project: 🐚 minishell written in C - 42 school
