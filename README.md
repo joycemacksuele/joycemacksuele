@@ -3,7 +3,7 @@
 - 🥖 Student at [**École 42**](https://www.42.fr) Paris 🇫🇷
 ![42 galaxy](https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png?raw=true "42 Holy Graph")
 - 🥑 I’m currently working on: Push-swap (🗄 sort data on a stack) - 42 school
-![42 push swap](./joycemacksuele/pic_srcs/pushswap42.jng?raw=true "42 Push-Swap Project")
+![42 push swap](https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/pushwsap42.png?raw=true "42 Push-Swap Project")
 - 🧅 Previous project: 🐚 minishell written in C - 42 school
 - 🍉 I’m currently learning: C language and memory 🤓
 
