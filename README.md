@@ -7,9 +7,13 @@
 * 🧅 Previous project: 🐚 minishell written in C - 42 school
 * 🍉 I’m currently learning: C language and memory 🤓
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=f8f8f8&title_color=blue&text_color=383838&icon_color=blue)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycemacksuele)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=f8f8f8&title_color=blue&text_color=383838&icon_color=blue)
+
 
 > 42 students: feel free to reach me on Slack or Discord (**@jfreitas**).
 
