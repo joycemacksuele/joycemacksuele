@@ -1,9 +1,9 @@
 ### Hi there - Oi oi - Salut! 
 
 - 🥖 Student at [**École 42**](https://www.42.fr) Paris 🇫🇷
-<img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=200 >
+<img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=400 >
 - 🥑 I’m currently working on: Push-swap (🗄 sort data on a stack) - 42 school
-![42 push swap](https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/pushwsap42.png?raw=true "42 Push-Swap Project")
+<img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/pushwsap42.png"42 width=300 >
 - 🧅 Previous project: 🐚 minishell written in C - 42 school
 - 🍉 I’m currently learning: C language and memory 🤓
 
