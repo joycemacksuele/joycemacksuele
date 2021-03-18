@@ -4,9 +4,9 @@
 - 🍉 I’m currently learning: C language and memory 🤓
 - 🧅 Previous project: 🐚 minishell written in C - 42 school
 - 🥑 I’m currently working on: Push-swap (🗄 sort data on a stack) - 42 school
-<img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=400 >  <img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/pushswap42.png" width=300 >
 
 
+- <img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=400 >  <img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/pushswap42.png" width=300 >
 
 
 
