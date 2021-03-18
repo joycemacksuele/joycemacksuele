@@ -5,12 +5,12 @@
 - 🧅 Previous project: 🐚 minishell written in C - 42 school
 - 🥑 I’m currently working on: Push-swap (🗄 sort data on a stack) - 42 school
 
-42 Holy Graph | Push-Swap Project
+42 Holy Graph | push_swap Project
 --- | ---
 <img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=400 > | <img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/pushswap42.png" width=300 >
 
 
-Learning | GithUB 
+Learning |     
 --- | ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycemacksuele)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=f8f8f8&title_color=blue&text_color=383838&icon_color=blue)
 
