@@ -5,15 +5,9 @@
 - 🧅 Previous projects: 🐚 minishell and push-swap written both in C - 42 school
 - 🥑 I’m currently working on: Philosophers (🗄 The dining Philosophers problem / multithreads programming) - 42 school
 
-42 Holy Graph | 
+42 Holy Graph | Learning
 --- | ---
-<img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=400 > | 
-
-
-Learning | Stats  
---- | ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycemacksuele)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycemacksuele&show_icons=true&theme=gotham&count_private=true&show_icons=true&hide_border=on&bg_color=f8f8f8&title_color=blue&text_color=383838&icon_color=blue)
-
+<img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=400 > | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycemacksuele)](https://github.com/anuraghazra/github-readme-stats)
 
 > 42 students: feel free to reach me on Slack or Discord (**@jfreitas**).
 
