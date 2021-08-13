@@ -11,6 +11,8 @@
 
 > 42 students: feel free to reach me on Slack or Discord (**@jfreitas**).
 
+[![BUILD CI](https://github.com/joycemacksuele/philosophers_42/actions/workflows/build_ci.yml/badge.svg)](https://github.com/joycemacksuele/philosophers_42/actions/workflows/build_ci.yml)
+
 <p align="center">
 	<a href="mailto:jfreitas@student.42.fr">
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-lightgray?style=flat&logo=Gmail&logoColor=383838&link=mailto:jfreitas@student.42.fr" />
