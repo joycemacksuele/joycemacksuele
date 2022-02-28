@@ -2,8 +2,8 @@
 
 - 🥖 Student at [**École 42**](https://www.42.fr) Paris 🇫🇷
 - 🍉 I’m currently learning: C language, memory and multithreading🤓
-- 🧅 Previous projects: 🐚 minishell and push-swap written both in C - 42 school
-- 🥑 I’m currently working on: Philosophers (🗄 The dining Philosophers problem / multithreads programming) - 42 school
+- 🧅 Previous projects: 🐚 minishell, push-swap and philosophers written in C
+- 🥑 I’m currently working on: Cpp projects
 
 42 Holy Graph | Learning
 --- | ---
