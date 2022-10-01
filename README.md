@@ -2,7 +2,7 @@
 
 - 🇳🇱 Student at [**42 school**](https://www.codam.nl/) Amsterdam.
 - 🥝 I’m currently learning: C, Cpp and Kotlin.
-- 🍉 Previous projects: 🐚 minishell, push-swap and philosophers written in C, Coroutines in Koltin and basis of Cpp with samll projects.
+- 🍉 Previous projects: mini-shell, push-swap and philosophers written in C, Coroutines in Koltin and basis of Cpp with small projects.
 - 🥑 I’m currently working on: Cpp projects (classes, inheritance, abstrac classes, exceptions, standart library etc).
 
 42 Holy Graph (Common core) | Learning
