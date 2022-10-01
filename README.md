@@ -1,11 +1,11 @@
 ### Hi there - Oi oi - Salut! 
 
-- 🥖 Student at [**École 42**](https://www.42.fr) Paris 🇫🇷
-- 🍉 I’m currently learning: C language, memory and multithreading🤓
-- 🧅 Previous projects: 🐚 minishell, push-swap and philosophers written in C
-- 🥑 I’m currently working on: Cpp projects
+- 🇳🇱 Student at [**42 school**](https://www.codam.nl/) Amsterdam.
+- 🥝 I’m currently learning: C, Cpp and Kotlin.
+- 🍉 Previous projects: 🐚 minishell, push-swap and philosophers written in C, Coroutines in Koltin and basis of Cpp with samll projects.
+- 🥑 I’m currently working on: Cpp projects (classes, inheritance, abstrac classes, exceptions, standart library etc).
 
-42 Holy Graph | Learning
+42 Holy Graph (Common core) | Learning
 --- | ---
 <img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=400 > | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycemacksuele)](https://github.com/anuraghazra/github-readme-stats)
 
