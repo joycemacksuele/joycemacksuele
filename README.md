@@ -1,7 +1,7 @@
 ### Hi there - Oi oi - Salut! 
 
 - 🇳🇱 Student at [**42 school**](https://www.codam.nl/) Amsterdam.
-- 🥝 I’m currently learning: C, Cpp and Kotlin.
+- 🥝 I’m currently learning: C, Cpp, Typescript and using NesttJs.
 - 🍉 Previous projects: Cpp modules, Http webserver, mini-shell, push-swap (sorting algo) and philosophers (threads) written in C, Coroutines in Koltin and basis of Cpp with small projects.
 - 🥑 I’m currently working on: Building a real-time multiplayer Pong game website using NestJS, PostgreSQL and React.
 
