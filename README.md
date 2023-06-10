@@ -7,7 +7,7 @@
 
 42 Holy Graph (Common core) | Learning
 --- | ---
-<img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42.png" width=400 > | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycemacksuele)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/joycemacksuele/joycemacksuele/blob/main/pic_srcs/holygraph42-2023.png" width=400 > | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joycemacksuele)](https://github.com/anuraghazra/github-readme-stats)
 
 > 42 students: feel free to reach me on Slack or Discord (**@jfreitas**).
 
